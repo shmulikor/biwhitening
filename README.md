@@ -4,7 +4,7 @@ Within this repository, you'll find an implementation of the algorithm presented
 
 ## examples for the results
 
-<img src="https://github.com/shmulikor/biwhitening/blob/master/images/eigenvalues.png" width="600" height="300">
-<img src="https://github.com/shmulikor/biwhitening/blob/master/images/density.png" width="600" height="300">
+<img src="https://github.com/shmulikor/biwhitening/blob/master/images/eigenvalues.png" width="600" height="250">
+<img src="https://github.com/shmulikor/biwhitening/blob/master/images/density.png" width="600" height="250">
 
 Compare to the results in Figure 1
